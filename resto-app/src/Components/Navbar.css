@@ -1,0 +1,22 @@
+.Navbar {
+  background-color: #bbe8c4;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.title {
+  margin-top: 130px;
+  margin-left: 10px;
+}
+.list {
+  list-style: none;
+  display: flex;
+  margin-left: -300px;
+}
+.List {
+  margin-left: 10px;
+}
+.logo {
+  display: flex;
+  margin-left: 0px;
+}

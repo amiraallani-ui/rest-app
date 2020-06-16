@@ -1,0 +1,106 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1ARbUxEZTMc1vw3E0o3L2KLzqW1Y-d3PLs-SyPaVDhQ-MCJc7&usqp=CAU",
+      "title": "Salade",
+      "price": "10 dt",
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSn-APkoBq_51u5SxsXFYkUyv_xkaWF6IZaEJ-xvkHeQPEn8a38&usqp=CAU",
+      "title": "Salade",
+      "price": "20 dt",
+      "quantity": 1
+    },
+    {
+      "id": 3,
+      "link": "https://media-cdn.tripadvisor.com/media/photo-w/11/9c/2b/f3/raw-vegan-spring-rolls.jpg",
+      "title": "salade",
+      "price": "8 dt",
+      "quantity": 1
+    },
+    {
+      "id": 4,
+      "link": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1472483520-springtacos-1572537127.jpg?crop=1.00xw:0.672xh;0,0.156xh&resize=640:*",
+      "title": "Tacos",
+      "price": "9 dt",
+      "quantity": 1
+    },
+    {
+      "id": 5,
+      "link": "https://www.feastingathome.com/wp-content/uploads/2019/01/collard-greens-wraps-100.jpg",
+      "title": "",
+      "price": "13 dt",
+      "quantity": 1
+    },
+    {
+      "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQw7V8gIvHeD2kY95jV9nsO3oQuTfoexR7atrPj2luQximTkb1Z&usqp=CAU",
+      "title": "sushi",
+      "price": "25 dt",
+      "id": 7,
+      "quantity": 1
+    }
+  ],
+  "orders": [
+    {
+      "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQw7V8gIvHeD2kY95jV9nsO3oQuTfoexR7atrPj2luQximTkb1Z&usqp=CAU",
+      "title": "sushi",
+      "price": "25 dt",
+      "id": 7,
+      "quantity": 1
+    },
+    {
+      "id": 4,
+      "link": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1472483520-springtacos-1572537127.jpg?crop=1.00xw:0.672xh;0,0.156xh&resize=640:*",
+      "title": "Tacos",
+      "price": "9 dt",
+      "quantity": 1
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "amira.allani.simplon@gmail.com",
+      "password": "0000",
+      "role": "Admin"
+    },
+    {
+      "id": 2,
+      "email": "allaniiamira@gmail.com",
+      "password": "azerty",
+      "role": "User"
+    },
+    {
+      "email": "a.a@gmail.com",
+      "password": "1515",
+      "role": "User",
+      "id": 3
+    },
+    {
+      "email": "b.b@gmail.fr",
+      "password": "123456789",
+      "role": "User",
+      "id": 4
+    },
+    {
+      "email": "allani_wiem@hotmail.com",
+      "password": "123",
+      "role": "User",
+      "id": 5
+    },
+    {
+      "email": "allani_yosra@hotmail.fr",
+      "password": "0000",
+      "role": "User",
+      "id": 6
+    },
+    {
+      "email": "mouni.allani26@gmail.com",
+      "password": "0000",
+      "role": "User",
+      "id": 7
+    }
+  ]
+}

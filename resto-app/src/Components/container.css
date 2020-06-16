@@ -1,0 +1,15 @@
+.component-container {
+  height: 200px;
+}
+p {
+  text-align: center;
+  font-size: 20px;
+}
+.emoji {
+  height: 5%;
+  width: 5%;
+}
+.first-text {
+  display: flex;
+  justify-content: center;
+}

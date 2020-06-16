@@ -1,0 +1,11 @@
+.gif-Container {
+  background-color: white;
+  height: 400px;
+}
+.gif {
+  display: flex;
+  justify-content: space-between;
+}
+h2 {
+  text-align: center;
+}

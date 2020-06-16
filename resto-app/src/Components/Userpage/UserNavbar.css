@@ -1,0 +1,10 @@
+.User-Navbar {
+  display: flex;
+  align-items: center;
+}
+.btn-panier {
+  margin-right: 10px;
+}
+.logo {
+  margin-right: 800px;
+}
